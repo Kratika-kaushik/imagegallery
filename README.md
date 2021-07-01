@@ -1,5 +1,7 @@
-A responsive image gallery using HTML and CSS
+**Image Gallery**
 
-Copy and paste the link in your browser to check out the website:
+A responsive image gallery using HTML and CSS.
+
+Follow the link below:
 
 https://kratika-kaushik.github.io/imagegallery/
